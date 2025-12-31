@@ -1,176 +1,187 @@
+
 <div align="center">
 
-<h1>
-  Rahul Raj
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave"/>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=160&section=header&text=Rahul%20Raj&fontColor=ffffff&fontSize=48&fontAlignY=36&animation=twinkling" />
+
+<h3 style="margin-top: 0;">Full-Stack Engineer • QA/Automation Lead • AI-Driven Builder</h3>
 
 <p>
-  <b>Full-Stack Engineer</b> • <b>QA/Automation Lead</b> • <b>AI-Driven Builder</b>
-</p>
-
-<p>
-  I engineer <b>production-grade systems</b> end-to-end — modern APIs, clean UIs, automation frameworks, and release-ready quality.
+  I build <b>production-grade systems</b> end-to-end — APIs, automation frameworks, scalable workflows, and modern UI delivery.
   <br/>
-  I love turning complex workflows into <b>reliable, measurable, scalable</b> engineering systems.
+  I engineer <b>reliability</b>, <b>speed</b>, and <b>release confidence</b> with a systems-thinking mindset.
 </p>
 
 <p>
   <a href="mailto:[redacted]">
-    <img src="https://img.shields.io/badge/Email-[redacted]-FF5252?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/Email-[redacted]-FF3D71?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:+91[redacted]">
-    <img src="https://img.shields.io/badge/Phone-+91--[redacted]-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone"/>
+    <img src="https://img.shields.io/badge/Phone-+91--[redacted]-00E5A8?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/therahulr/">
-    <img src="https://img.shields.io/badge/LinkedIn-therahulr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-therahulr-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=900&center=true&vCenter=true&width=900&lines=Automation+%E2%9A%A1+API+Testing+%E2%9A%A1+DB+Validations+%E2%9A%A1+CI%2FCD;Full+Stack+%E2%9A%A1+FastAPI+%E2%9A%A1+React+%E2%9A%A1+Clean+Architecture;Test+Strategy+%E2%9A%A1+Release+Readiness+%E2%9A%A1+Risk-Based+Coverage;AI+Workflows+%E2%9A%A1+RAG+%E2%9A%A1+Embeddings+%E2%9A%A1+Developer+Productivity" />
+<p>
+  <img src="https://img.shields.io/badge/AI%20Workflows-RAG%20%7C%20Embeddings%20%7C%20Automation-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Quality%20Engineering-Test%20Strategy%20%7C%20Release%20Readiness-00E5A8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack-FastAPI%20%7C%20React%20%7C%20SQL-F97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD%20%7C%20Cloud-2F80ED?style=flat-square" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=therahulr&style=for-the-badge&color=000000" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=therahulr&style=for-the-badge&color=blueviolet" alt="profile views"/>
-
 </div>
 
----
 
-## ✨ What I bring to the table
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-- 🧩 **Full-Stack Engineering:** APIs, auth flows, modular backend design, modern UI delivery  
-- 🧪 **Quality Engineering Leadership:** test strategy, coverage planning, regression confidence, release readiness  
-- ⚙️ **Automation at Scale:** UI + API + DB automation, stable frameworks, reporting & CI optimization  
-- 🤖 **AI-Driven Engineering:** AI-assisted development, RAG/embeddings workflows, faster high-quality delivery  
-- 📈 **Process & Systems Thinking:** dashboards, metrics, standards, and clean engineering workflows  
+### ⟡ What I build
+- **Quality-first systems** that scale with teams and releases  
+- **Automation frameworks** designed like products  
+- **Backend APIs** with clean contracts and robust validation  
+- **UI experiences** that feel modern, fast, and professional  
+- **AI-assisted workflows** to accelerate delivery without sacrificing engineering discipline
 
----
+    </td>
+    <td width="50%" valign="top">
 
-## 🧠 Strengths that define my work
+### ⟡ How I operate
+- **Risk-based testing** for maximum confidence with minimal noise  
+- **Traceability mindset**: requirements → tests → results → release sign-off  
+- **Stability-first automation**: reliable selectors, clean architecture, CI-friendly execution  
+- **Metrics & dashboards** that decision-makers can actually trust  
+- **Team leadership** through clarity, standards, and mentorship  
 
-### ✅ Test Strategy & Release Confidence
-- Risk-based planning and coverage that aligns with business-critical workflows  
-- Strong focus on **defect prevention**, not just defect detection  
-- Clear, traceable test design and quality sign-off discipline  
-
-### ✅ Automation Engineering (Built like a product)
-- Framework-first mindset: reusable components, maintainability, and resilience  
-- UI automation + API validations + DB checks + utilities in a unified approach  
-- Reporting and visibility: results that leaders and engineers can trust  
-
-### ✅ Full-Stack Delivery
-- Production-first backend practices: clean structure, validation, error handling, consistency  
-- Frontend experiences that are modern, responsive, and professional  
-
-### ✅ Team Lead Mindset
-- Mentoring, review standards, prioritization, and predictable execution  
-- Strong communication: clear documentation + clean handoffs + reliable collaboration  
-
----
-
-## 🧰 Tech Toolbox (high signal)
-
-<div align="center">
-
-### Languages & Core
-<img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-121212?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-### Backend / APIs
-<img src="https://img.shields.io/badge/FastAPI-121212?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-121212?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS%20SQL-121212?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-### Frontend
-<img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-121212?style=for-the-badge&logo=vite&logoColor=white"/>
-
-### QA / Automation
-<img src="https://img.shields.io/badge/Selenium-121212?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-121212?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTest-121212?style=for-the-badge&logo=pytest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Allure-121212?style=for-the-badge&logo=allure&logoColor=white"/>
-
-### DevOps / Platforms
-<img src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-121212?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-121212?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-121212?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
-
----
-
-## 🤖 AI: how I use it (in real engineering)
-
-- 🧠 **AI-assisted development:** fast prototypes + clean refactors with strong engineering judgment  
-- 📚 **RAG & Embeddings:** knowledge search over specs, test cases, and documentation  
-- 🧪 **AI for QA:** generating edge cases, risk areas, and strengthening test coverage quickly  
-- ⚙️ **Automation intelligence:** turning repetitive analysis into tools and repeatable workflows  
-
-> I treat AI as a **force multiplier** — guided by clean architecture, testing discipline, and reliability.
-
----
-
-## 🧭 My engineering principles
-
-- 🎯 **Simple > clever**  
-- 🧱 **Modular by design** (scales cleanly)  
-- 🔍 **Observability matters** (logs, traceability, meaningful reporting)  
-- 🛡️ **Quality is engineered, not appended**  
-- 📝 **Documentation is part of delivery**  
-- 🤝 **Consistency wins long-term**
-
----
-
-## 🌱 What I’m exploring
-
-- Advanced Python (performance, concurrency, architecture patterns)  
-- Scalable automation (resilient tests, CI efficiency, stability-first design)  
-- AI workflows that improve engineering and QA productivity  
-- Premium UI systems that feel modern, fast, and clean  
-
----
-
-## 🌌 Beyond work (things that make me *me*)
-
-- 🧠 **Philosophy & Psychology** — patterns of the mind, meaning, behavior  
-- 🌌 **Space & Spirituality** — galaxies, consciousness, deeper questions  
-- 🎵 **Hindi music + poetry** — emotion, depth, storytelling  
-- 🏛️ **Retro / ancient aesthetics** — quiet places, timeless mood, minimal palettes  
-- 📸 **Photography** — cinematic visuals, night and low-light experimentation  
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=therahulr&show_icons=true&hide_border=true&rank_icon=github" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therahulr&layout=compact&hide_border=true" alt="top langs"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=therahulr&hide_border=true" alt="streak"/>
 
-<br/>
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=therahulr&hide_border=true" alt="activity graph"/>
+#### ⟡ Tech Stack & Tools (high signal)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Selenium-1A1A1A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-1A1A1A?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTest-1A1A1A?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Allure-1A1A1A?style=for-the-badge&logo=allure&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-222222?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-222222?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-222222?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 </div>
 
----
+<br/>
 
-## 🤝 Let’s build something solid
 
-If you're working on:
-- **Automation frameworks**
-- **AI-powered engineering workflows**
-- **Full-stack systems**
-- **Test strategy & release readiness**
+<table>
+  <tr>
+    <td width="100%" valign="top">
 
-📩 Reach out: **[redacted]** | 📞 **+91-[redacted]** | 🔗 LinkedIn: **therahulr**
+### ⟡ AI in my engineering (practical, not hype)
+
+- **AI-assisted development:** rapid prototyping + clean refactors with engineering judgment  
+- **RAG & embeddings:** knowledge search over specs, test cases, and documentation  
+- **AI for QA:** edge cases, risk discovery, and faster test design  
+- **Automation intelligence:** convert repetitive analysis into stable tools + workflows  
+
+<sub>⟡ AI is my force multiplier — architecture, quality, and reliability stay non-negotiable.</sub>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+
+### ⟡ Beyond work
+
+- **Philosophy & Psychology** — meaning, human behavior, deeper questions  
+- **Space & Spirituality** — galaxies, consciousness, existential curiosity  
+- **Hindi music + poetry** — emotion, culture, lyrical storytelling  
+- **Retro / ancient aesthetics** — quiet places, timeless moods, minimal palettes  
+- **Photography** — cinematic low-light and night visual exploration  
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+
+<div align="center">
+
+### ⟡ GitHub Analytics (Black Theme)
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=therahulr&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=therahulr&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc"
+  height="165"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=therahulr&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=cccccc&dates=888888"
+  height="175"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=therahulr&bg_color=000000&color=cccccc&line=ffffff&point=ffffff&area=true&hide_border=true"
+  width="98%"
+/>
+
+</div>
+
+<br/>
+
+
+<div align="center">
+
+### ⟡ Let’s collaborate
+If you're building **automation frameworks**, **AI-powered engineering workflows**, **full-stack systems**, or **release-ready quality pipelines**  
+reach out anytime:
+
+<b>[redacted]</b> • <b>+91-[redacted]</b> • <a href="https://www.linkedin.com/in/therahulr/"><b>LinkedIn</b></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=120&section=footer" />
