@@ -127,16 +127,12 @@
 
 <div align="center">
 
-### 📊 GitHub Analytics (self-hosted)
+### 📊 GitHub Analytics
 
-![GitHub Stats](./assets/analytics/github-stats.svg)
-![Top Languages](./assets/analytics/top-langs.svg)
-
-![Streak](./assets/analytics/streak.svg)
-
-![Activity Graph](./assets/analytics/activity-graph.svg)
+<img width="98%" src="https://github.com/therahulr/therahulr/blob/main/assets/analytics/contribution-snake.svg" />
 
 </div>
+
 
 <br/>
 
