@@ -1,0 +1,154 @@
+name: Generate Profile Cards (self-hosted)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 2 * * *" # daily 02:30 UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prepare folders
+        run: mkdir -p assets/analytics
+
+      - name: Generate SVG cards
+        shell: bash
+        run: |
+          python - << 'PY'
+          from pathlib import Path
+          from datetime import datetime
+
+          out_dir = Path("assets/analytics")
+          out_dir.mkdir(parents=True, exist_ok=True)
+
+          # Premium black card theme
+          BG = "#000000"
+          CARD = "#0b0f14"
+          STROKE = "#1f2937"
+          TEXT = "#e5e7eb"
+          MUTED = "#9ca3af"
+          ACCENT1 = "#8b5cf6"
+          ACCENT2 = "#22c55e"
+          ACCENT3 = "#38bdf8"
+          ACCENT4 = "#f97316"
+
+          now = datetime.utcnow().strftime("%Y-%m-%d")
+
+          def svg_header(w, h):
+            return f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">'
+
+          def rounded_rect(x,y,w,h,r,fill,stroke=None,sw=1):
+            s = f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="{r}" fill="{fill}"'
+            if stroke:
+              s += f' stroke="{stroke}" stroke-width="{sw}"'
+            s += '/>'
+            return s
+
+          def text(x,y,txt,size=16,fill=TEXT,weight=600):
+            # simple escaping for & < >
+            txt = (txt.replace("&","&amp;").replace("<","&lt;").replace(">","&gt;"))
+            return f'<text x="{x}" y="{y}" fill="{fill}" font-size="{size}" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="{weight}">{txt}</text>'
+
+          def pill(x,y,txt,fill,fg="#ffffff"):
+            # width approximation: 8px per char + padding
+            w = max(92, 8*len(txt) + 34)
+            h = 34
+            r = 999
+            return (
+              f'<g>'
+              f'{rounded_rect(x,y,w,h,r,fill)}'
+              f'{text(x+18,y+23,txt,14,fg,700)}'
+              f'</g>'
+            ), w
+
+          # Card 1: Profile Metrics (static but premium; you can swap numbers later)
+          w, h = 1200, 240
+          parts = [svg_header(w,h)]
+          parts.append(rounded_rect(0,0,w,h,22,CARD,STROKE,1))
+          parts.append(text(36,52,"Profile Metrics",26,TEXT,800))
+          parts.append(text(36,82,"Self-hosted cards · always stable · black theme",14,MUTED,600))
+          parts.append(text(1040,52,f"Updated: {now}",14,MUTED,600))
+
+          # Four metric tiles (clean placeholders but not "placeholder-y": neutral metrics)
+          tiles = [
+            ("Engineering Focus", "API · Automation · AI", ACCENT1),
+            ("Quality Systems", "Risk-based · Release-ready", ACCENT2),
+            ("Delivery Style", "Modular · Observable · Reliable", ACCENT3),
+            ("Tooling", "Python · SQL · React · CI/CD", ACCENT4),
+          ]
+
+          tx = 36
+          ty = 110
+          tile_w = 276
+          tile_h = 92
+          gap = 20
+
+          for i,(t1,t2,c) in enumerate(tiles):
+            x = tx + i*(tile_w+gap)
+            parts.append(rounded_rect(x,ty,tile_w,tile_h,18,"#05070a",STROKE,1))
+            parts.append(rounded_rect(x+18,ty+18,10,56,99,c))
+            parts.append(text(x+40,ty+44,t1,16,TEXT,800))
+            parts.append(text(x+40,ty+70,t2,13,MUTED,650))
+
+          parts.append("</svg>")
+          (out_dir / "profile-metrics.svg").write_text("\n".join(parts), encoding="utf-8")
+
+          # Card 2: Language Mix (chips-style)
+          w, h = 1200, 210
+          parts = [svg_header(w,h)]
+          parts.append(rounded_rect(0,0,w,h,22,CARD,STROKE,1))
+          parts.append(text(36,52,"Language & Stack Mix",26,TEXT,800))
+          parts.append(text(36,82,"High-signal tools I ship with",14,MUTED,600))
+
+          chips = [
+            ("Python", ACCENT1),
+            ("FastAPI", "#111827"),
+            ("Django", "#052e16"),
+            ("SQL", ACCENT3),
+            ("PostgreSQL", "#0f172a"),
+            ("React", ACCENT4),
+            ("TypeScript", "#1e40af"),
+            ("Playwright", "#0b1220"),
+            ("Selenium", "#064e3b"),
+            ("PyTest", "#451a03"),
+            ("Allure", "#312e81"),
+            ("Docker", "#0c4a6e"),
+            ("GitHub Actions", "#111827"),
+            ("Azure", "#0b1220"),
+            ("AWS", "#111827"),
+          ]
+
+          x, y = 36, 112
+          row_h = 46
+          max_w = 1128
+
+          for name, color in chips:
+            p, pw = pill(x,y,name,color)
+            if x + pw > max_w:
+              x = 36
+              y += row_h
+            parts.append(p)
+            x += pw + 12
+
+          parts.append("</svg>")
+          (out_dir / "lang-mix.svg").write_text("\n".join(parts), encoding="utf-8")
+
+          print("Wrote:", out_dir / "profile-metrics.svg")
+          print("Wrote:", out_dir / "lang-mix.svg")
+          PY
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update self-hosted profile cards"
+          file_pattern: assets/analytics/*.svg
