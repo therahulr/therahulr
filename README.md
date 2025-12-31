@@ -1,42 +1,96 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a1a1a&height=180&section=header&text=Rahul%20Raj&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=190&section=header&text=Rahul%20Raj&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 
-<h2 style="margin: 0; font-weight: 800;">Full-Stack Engineer • QA/Automation Lead • AI-Driven Builder</h2>
+<p>
+  <b>Senior Software Engineer</b> · <b>Full-Stack</b> · <b>QA/Automation</b> · <b>AI Workflows</b>
+</p>
 
-<p style="max-width: 820px; line-height: 1.6; opacity: 0.95;">
-I build <b>production-grade systems</b> end-to-end — scalable APIs, modern UI, automation frameworks, and release-ready quality.
-I think in <b>systems</b>: reliability, speed, observability, and clean engineering workflows.
+<p style="max-width: 900px;">
+  I build <b>production-grade systems</b> end-to-end — scalable APIs, modern UI, automation frameworks, and release-ready quality.
+  I operate with <b>systems thinking</b>: reliability, observability, traceability, and predictable delivery.
 </p>
 
 <p>
+  <a href="https://therahulr.github.io/">
+    <img src="https://img.shields.io/badge/Website-therahulr.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="mailto:[redacted]">
-    <img src="https://img.shields.io/badge/[redacted]-Email-FF3D71?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-[redacted]-FF2D55?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:+91[redacted]">
-    <img src="https://img.shields.io/badge/+91--[redacted]-Phone-00E5A8?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Phone-+91--[redacted]-00E5A8?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/therahulr/">
-    <img src="https://img.shields.io/badge/therahulr-LinkedIn-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-therahulr-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=therahulr&style=for-the-badge&color=111111" />
+  <img src="https://img.shields.io/badge/AI%20Workflows-RAG%20%7C%20Embeddings%20%7C%20Automation-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Test%20Strategy-Release%20Readiness%20%7C%20Risk--Based%20Coverage-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-UI%20%7C%20API%20%7C%20DB%20Validation-F97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack-FastAPI%20%7C%20React%20%7C%20SQL-38BDF8?style=flat-square" />
 </p>
 
 </div>
 
 <br/>
 
+### 🌈 Snapshot
+- 🧠 **8+ years** building Python-first systems across backend engineering, automation, and data workflows  
+- ⚡ Strong in **scalable APIs**, **automation frameworks**, **DB validation**, **CI/CD**, and **engineering discipline**  
+- 🧩 Built for **clarity + reliability**: traceability, observability, measurable quality, predictable delivery  
+
+<br/>
+
+### 🧬 How I think & execute
+- 🟣 **Quality engineered, not appended** → defect prevention mindset, not just detection  
+- 🟦 **Traceability** → requirements → tests → results → release confidence  
+- 🟢 **Stability-first automation** → resilient design, maintainable architecture, CI-friendly execution  
+- 🟠 **Business-aligned testing** → risk-based coverage and regression strategy  
+- 🟡 **Measurable outcomes** → dashboards, metrics, and decision-grade reporting  
+
+<br/>
+
+### 🧱 Experience
+- 🔥 **Senior Software Engineer / QA Automation Lead (2020–Present)** — building and stabilizing enterprise-grade platforms with a quality-first mindset  
+  - 🧠 Scalable backend/API development (Python, Django/FastAPI), secure auth flows, clean modular architecture  
+  - 🧪 End-to-end **test strategy & release readiness**: risk-based coverage, regression planning, QA sign-offs, defect prevention  
+  - ⚙️ Automation at scale: **UI + API + DB validation**, CI-integrated execution, reporting (Allure), reliability improvements  
+  - 🧾 Data-intensive workflows: reconciliation pipelines, anomaly/risk detection signals, integrity + traceability patterns  
+
+- 🛰️ **Software Engineer / Test Engineer (2018–2020)** — foundation years focused on engineering + verification  
+  - 🧩 Backend engineering support + E2E validation for business-critical workflows  
+  - 🧪 Automation fundamentals: Selenium + PyTest, API verification, database-driven assertions, stable test design  
+  - 🧰 Built reusable utilities, data generators, logging/monitoring patterns, repeatable QA processes  
+
+- 💼 **Freelance / Independent Work (Ongoing)** — outcome-driven delivery across varied problem spaces  
+  - 🧱 Python automation scripts, ETL/data transformations, scraping/structured extraction, dashboards & visual reporting  
+  - 🔍 API validation workflows, productivity tooling, small-to-mid scale full-stack implementations  
+
+<br/>
+
+### 🧪 What I’ve built (without fluff)
+* 🏦 **Designed, developed, and deployed an end-to-end Bank Reconciliation (BRS) process** — ingestion → validation → reconciliation logic → exception handling → reporting  
+* 🛡️ **Delivered SEBI-aligned fraud detection workflows** — signal extraction, rule/anomaly detection, case-ready evidence trails  
+* 🧾 **Built reconciliation rule engines** — matching, partial matching, tolerance handling, multi-source alignment (ledger/bank/internal)  
+* 🔎 **Implemented exception workflows** — auto-classification, prioritization, audit-friendly resolution paths, SLA-style tracking  
+* 🧠 **Created risk & fraud indicators** — unusual frequency, amount deviation, reversals, circular patterns, identity mismatches, timing anomalies  
+* 🧿 **Built automation execution monitoring** — visibility into runs, outcomes, failures, and reliability signals  
+* 📊 **Developed analytics pipelines (Python + SQL)** — raw data → KPIs → decision-grade visual reporting  
+* 🕸️ **Engineered web data extraction systems** — structured scraping, normalization, storage, comparison/analysis workflows  
+* 🧵 **Implemented real-time monitoring & validation patterns** — integrity checks, event-driven verification, reliability guardrails  
+* ⚙️ **Engineered automation + validation utilities** across UI/API/DB layers — accuracy, consistency, regression protection  
+* 🔐 **Strengthened data integrity & security posture** — validation gates, controlled access patterns, audit-aware logging  
+* 📦 **Standardized delivery pipelines** — CI-friendly execution, consistent reporting, repeatable deployment practices  
+
+<br/>
+
 <div align="center">
 
-### ⚡ Focus Areas
-
-<img src="https://img.shields.io/badge/AI%20Workflows-RAG%20%7C%20Embeddings%20%7C%20Automation-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Quality%20Engineering-Test%20Strategy%20%7C%20Release%20Readiness-00E5A8?style=flat-square" />
-<img src="https://img.shields.io/badge/Full%20Stack-FastAPI%20%7C%20React%20%7C%20SQL-F97316?style=flat-square" />
-<img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD%20%7C%20Cloud-2F80ED?style=flat-square" />
+### 🧰 Tech Stack
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,flask,postgres,mongodb,docker,githubactions,azure,aws,jenkins,linux,kafka&perline=8" />
 
 </div>
 
@@ -44,98 +98,43 @@ I think in <b>systems</b>: reliability, speed, observability, and clean engineer
 
 <div align="center">
 
-## 🧩 What I do (in one scroll)
-
+### 🧪 Testing & Automation
+<img src="https://img.shields.io/badge/Selenium-19C37D?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-0EA5E9?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTest-F59E0B?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Allure-8B5CF6?style=for-the-badge&logo=allure&logoColor=white" />
+<img src="https://img.shields.io/badge/Robot%20Framework-FF2D55?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/Behave-22C55E?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Testing-38BDF8?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-### 🧠 Systems & Delivery
-- **Quality-first engineering** → confidence across teams and releases  
-- **Risk-based testing** → maximum coverage with minimal noise  
-- **Traceability mindset** → requirements → tests → results → sign-off  
-- **Metrics & dashboards** → visibility that leaders & engineers can trust  
+<br/>
 
-### ⚙️ Automation (built like a product)
-- Stable UI automation + API validations + DB checks in a unified approach  
-- Maintainable architecture (reusable components, clean layering, CI-friendly execution)  
-- Reporting that’s readable, consistent, and decision-ready  
+### 🤖 AI in my engineering
+- 🧠 **AI-assisted development** → faster prototyping + clean refactors with strong judgment  
+- 🧩 **RAG/Embeddings workflows** → knowledge search over specs, test cases, and docs  
+- 🧪 **AI for QA** → risk discovery, edge cases, scenario expansion, better coverage  
+- ⚙️ **Automation intelligence** → convert repetitive analysis into reliable tools and workflows  
 
-### 🏗️ Full-Stack engineering
-- Backend APIs with clean contracts, validation, and consistent response models  
-- Modern UI delivery with performance + mobile-first mindset  
-- Practical DevOps: pipelines, environments, and release discipline  
+<br/>
+
+### 🌌 Beyond work
+- 🌿 Philosophy & Psychology · 🌌 Space & Spirituality  
+- 🎶 Hindi music + poetry · 🏛️ Retro/ancient aesthetics  
+- 📸 Cinematic photography, especially low-light moods  
 
 <br/>
 
 <div align="center">
 
-## 🧰 Tech Stack (chips, clean)
+### 📊 GitHub Analytics (self-hosted)
 
-</div>
+![GitHub Stats](./assets/analytics/github-stats.svg)
+![Top Languages](./assets/analytics/top-langs.svg)
 
-<div align="center">
+![Streak](./assets/analytics/streak.svg)
 
-<!-- Primary -->
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,flask,postgres,docker,githubactions,azure,aws&perline=11" />
-
-<br/><br/>
-
-<!-- QA -->
-<img src="https://skillicons.dev/icons?i=selenium&perline=11" />
-<img src="https://img.shields.io/badge/Playwright-111111?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTest-111111?style=for-the-badge&logo=pytest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Allure-111111?style=for-the-badge&logo=allure&logoColor=white"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🤖 AI in my engineering (practical, not hype)
-
-</div>
-
-- **AI-assisted development:** rapid prototyping + clean refactors with engineering judgment  
-- **RAG & embeddings:** knowledge search over specs, test cases, and documentation  
-- **AI for QA:** edge cases, risk discovery, and faster test design  
-- **Automation intelligence:** convert repetitive analysis into stable tools + workflows  
-
-<sub>AI is my force multiplier — architecture, quality, and reliability stay non-negotiable.</sub>
-
-<br/><br/>
-
-<div align="center">
-
-## 🌌 Beyond work
-
-</div>
-
-- **Philosophy & Psychology** — meaning, patterns of the mind, behavior  
-- **Space & Spirituality** — galaxies, consciousness, deeper questions  
-- **Hindi music + poetry** — emotion + storytelling  
-- **Retro / ancient aesthetics** — quiet places, timeless moods  
-- **Photography** — cinematic low-light exploration  
-
-<br/>
-
-<div align="center">
-
-## 📊 GitHub Analytics (Black, clean)
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=therahulr&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therahulr&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc" />
-
-<br/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=therahulr&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=cccccc&dates=777777" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=therahulr&bg_color=000000&color=cccccc&line=ffffff&point=ffffff&area=true&hide_border=true" />
+![Activity Graph](./assets/analytics/activity-graph.svg)
 
 </div>
 
@@ -143,9 +142,11 @@ I think in <b>systems</b>: reliability, speed, observability, and clean engineer
 
 <div align="center">
 
-### 🤝 Collaborate / Connect
-<b>[redacted]</b> • <b>+91-[redacted]</b> • <a href="https://www.linkedin.com/in/therahulr/"><b>LinkedIn</b></a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=10&section=footer" />
+<b>Website:</b> <a href="https://therahulr.github.io/">therahulr.github.io</a> ·
+<b>Email:</b> <a href="mailto:[redacted]">[redacted]</a> ·
+<b>Phone:</b> <a href="tel:+91[redacted]">+91-[redacted]</a> ·
+<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/therahulr/">therahulr</a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer" />
