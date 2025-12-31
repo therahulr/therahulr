@@ -132,17 +132,34 @@
 <img width="98%" src="https://github.com/therahulr/therahulr/blob/main/assets/analytics/contribution-snake.svg" />
 
 </div>
+<div align="center">
 
+<img width="98%" src="./assets/analytics/profile-metrics.svg" />
+
+<br/><br/>
+
+<img width="98%" src="./assets/analytics/lang-mix.svg" />
+
+</div>
 
 <br/>
 
 <div align="center">
 
-<b>Website:</b> <a href="https://therahulr.github.io/">therahulr.github.io</a> ·
-<b>Email:</b> <a href="mailto:[redacted]">[redacted]</a> ·
-<b>Phone:</b> <a href="tel:+91[redacted]">+91-[redacted]</a> ·
-<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/therahulr/">therahulr</a>
+<a href="https://therahulr.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-therahulr.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:[redacted]">
+  <img src="https://img.shields.io/badge/Email-[redacted]-FF2D55?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="tel:+91[redacted]">
+  <img src="https://img.shields.io/badge/Phone-+91--[redacted]-00E5A8?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/therahulr/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-therahulr-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer" />
