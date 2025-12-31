@@ -1,0 +1,66 @@
+name: Update Profile Analytics (self-hosted)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *" # daily 03:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare folders
+        run: |
+          mkdir -p assets/analytics
+
+      - name: Download SVGs (with retries)
+        shell: bash
+        run: |
+          set -e
+
+          fetch() {
+            local url="$1"
+            local out="$2"
+
+            echo "Fetching: $out"
+            for i in 1 2 3 4 5; do
+              if curl -fsSL --retry 3 --retry-delay 2 --connect-timeout 15 --max-time 60 "$url" -o "$out"; then
+                # basic sanity check: must be an SVG
+                if grep -q "<svg" "$out"; then
+                  echo "OK: $out"
+                  return 0
+                fi
+              fi
+              echo "Retry $i failed for $out; sleeping..."
+              sleep 4
+            done
+
+            echo "FAILED to fetch a valid SVG for $out"
+            exit 1
+          }
+
+          USER="therahulr"
+
+          fetch "https://github-readme-stats.vercel.app/api?username=${USER}&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&cache_seconds=1800" \
+                "assets/analytics/github-stats.svg"
+
+          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=${USER}&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&cache_seconds=1800" \
+                "assets/analytics/top-langs.svg"
+
+          fetch "https://streak-stats.demolab.com?user=${USER}&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=cccccc&dates=777777" \
+                "assets/analytics/streak.svg"
+
+          fetch "https://github-readme-activity-graph.vercel.app/graph?username=${USER}&bg_color=000000&color=cccccc&line=ffffff&point=ffffff&area=true&hide_border=true" \
+                "assets/analytics/activity-graph.svg"
+
+      - name: Commit changes (if any)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update self-hosted analytics svgs"
+          file_pattern: assets/analytics/*.svg
