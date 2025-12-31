@@ -124,6 +124,15 @@
 - 📸 Cinematic photography, especially low-light moods  
 
 <br/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Build%20Style-Product%20Mindset-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Quality-Risk--Based%20%7C%20Release--Ready-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-UI%20%7C%20API%20%7C%20DB-0b0f14?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-RAG%20%7C%20Embeddings-05070a?style=for-the-badge" />
+
+</div>
+
 
 <div align="center">
 
