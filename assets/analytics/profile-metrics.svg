@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+<rect x="0" y="0" width="1200" height="240" rx="22" fill="#0b0f14" stroke="#1f2937" stroke-width="1"/>
+<text x="36" y="52" fill="#e5e7eb" font-size="26" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="800">Profile Metrics</text>
+<text x="36" y="82" fill="#9ca3af" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="600">Self-hosted cards · always stable · black theme</text>
+<text x="1040" y="52" fill="#9ca3af" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="600">Updated: 2025-12-31</text>
+<rect x="36" y="110" width="276" height="92" rx="18" fill="#05070a" stroke="#1f2937" stroke-width="1"/>
+<rect x="54" y="128" width="10" height="56" rx="99" fill="#8b5cf6"/>
+<text x="76" y="154" fill="#e5e7eb" font-size="16" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="800">Engineering Focus</text>
+<text x="76" y="180" fill="#9ca3af" font-size="13" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="650">API · Automation · AI</text>
+<rect x="332" y="110" width="276" height="92" rx="18" fill="#05070a" stroke="#1f2937" stroke-width="1"/>
+<rect x="350" y="128" width="10" height="56" rx="99" fill="#22c55e"/>
+<text x="372" y="154" fill="#e5e7eb" font-size="16" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="800">Quality Systems</text>
+<text x="372" y="180" fill="#9ca3af" font-size="13" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="650">Risk-based · Release-ready</text>
+<rect x="628" y="110" width="276" height="92" rx="18" fill="#05070a" stroke="#1f2937" stroke-width="1"/>
+<rect x="646" y="128" width="10" height="56" rx="99" fill="#38bdf8"/>
+<text x="668" y="154" fill="#e5e7eb" font-size="16" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="800">Delivery Style</text>
+<text x="668" y="180" fill="#9ca3af" font-size="13" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="650">Modular · Observable · Reliable</text>
+<rect x="924" y="110" width="276" height="92" rx="18" fill="#05070a" stroke="#1f2937" stroke-width="1"/>
+<rect x="942" y="128" width="10" height="56" rx="99" fill="#f97316"/>
+<text x="964" y="154" fill="#e5e7eb" font-size="16" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="800">Tooling</text>
+<text x="964" y="180" fill="#9ca3af" font-size="13" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="650">Python · SQL · React · CI/CD</text>
+</svg>

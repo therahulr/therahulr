@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210">
+<rect x="0" y="0" width="1200" height="210" rx="22" fill="#0b0f14" stroke="#1f2937" stroke-width="1"/>
+<text x="36" y="52" fill="#e5e7eb" font-size="26" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="800">Language &amp; Stack Mix</text>
+<text x="36" y="82" fill="#9ca3af" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="600">High-signal tools I ship with</text>
+<g><rect x="36" y="112" width="92" height="34" rx="999" fill="#8b5cf6"/><text x="54" y="135" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">Python</text></g>
+<g><rect x="140" y="112" width="92" height="34" rx="999" fill="#111827"/><text x="158" y="135" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">FastAPI</text></g>
+<g><rect x="244" y="112" width="92" height="34" rx="999" fill="#052e16"/><text x="262" y="135" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">Django</text></g>
+<g><rect x="348" y="112" width="92" height="34" rx="999" fill="#38bdf8"/><text x="366" y="135" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">SQL</text></g>
+<g><rect x="452" y="112" width="114" height="34" rx="999" fill="#0f172a"/><text x="470" y="135" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">PostgreSQL</text></g>
+<g><rect x="578" y="112" width="92" height="34" rx="999" fill="#f97316"/><text x="596" y="135" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">React</text></g>
+<g><rect x="682" y="112" width="114" height="34" rx="999" fill="#1e40af"/><text x="700" y="135" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">TypeScript</text></g>
+<g><rect x="808" y="112" width="114" height="34" rx="999" fill="#0b1220"/><text x="826" y="135" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">Playwright</text></g>
+<g><rect x="934" y="112" width="98" height="34" rx="999" fill="#064e3b"/><text x="952" y="135" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">Selenium</text></g>
+<g><rect x="1044" y="112" width="92" height="34" rx="999" fill="#451a03"/><text x="1062" y="135" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">PyTest</text></g>
+<g><rect x="140" y="158" width="92" height="34" rx="999" fill="#312e81"/><text x="158" y="181" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">Allure</text></g>
+<g><rect x="244" y="158" width="92" height="34" rx="999" fill="#0c4a6e"/><text x="262" y="181" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">Docker</text></g>
+<g><rect x="348" y="158" width="146" height="34" rx="999" fill="#111827"/><text x="366" y="181" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">GitHub Actions</text></g>
+<g><rect x="506" y="158" width="92" height="34" rx="999" fill="#0b1220"/><text x="524" y="181" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">Azure</text></g>
+<g><rect x="610" y="158" width="92" height="34" rx="999" fill="#111827"/><text x="628" y="181" fill="#ffffff" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">AWS</text></g>
+</svg>
