@@ -60,7 +60,7 @@
   - ⚙️ Automation at scale: **UI + API + DB validation**, CI-integrated execution, reporting (Allure), reliability improvements  
   - 🧾 Data-intensive workflows: reconciliation pipelines, anomaly/risk detection signals, integrity + traceability patterns  
 
-- 🛰️ **Software Engineer / Test Engineer (2018–2020)** — foundation years focused on engineering + verification  
+- 🛰️ **Software Engineer (2018–2020)** — foundation years focused on engineering + verification  
   - 🧩 Backend engineering support + E2E validation for business-critical workflows  
   - 🧪 Automation fundamentals: Selenium + PyTest, API verification, database-driven assertions, stable test design  
   - 🧰 Built reusable utilities, data generators, logging/monitoring patterns, repeatable QA processes  
@@ -71,7 +71,7 @@
 
 <br/>
 
-### 🧪 What I’ve built (without fluff)
+### 🧪 What I’ve built
 * 🏦 **Designed, developed, and deployed an end-to-end Bank Reconciliation (BRS) process** — ingestion → validation → reconciliation logic → exception handling → reporting  
 * 🛡️ **Delivered SEBI-aligned fraud detection workflows** — signal extraction, rule/anomaly detection, case-ready evidence trails  
 * 🧾 **Built reconciliation rule engines** — matching, partial matching, tolerance handling, multi-source alignment (ledger/bank/internal)  
