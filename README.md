@@ -3,93 +3,90 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=190&section=header&text=Rahul%20Raj&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 
 <p>
-  <b>Senior Software Engineer</b> · <b>Full-Stack</b> · <b>QA/Automation</b> · <b>AI Workflows</b>
+  <b>Senior Software Engineer</b> · <b>QA Automation Lead</b> · <b>Full-Stack</b> · <b>AI Workflows</b>
 </p>
 
 <p style="max-width: 900px;">
-  I build <b>production-grade systems</b> end-to-end — scalable APIs, modern UI, automation frameworks, and release-ready quality.
-  I operate with <b>systems thinking</b>: reliability, observability, traceability, and predictable delivery.
+  I build backend systems and automation frameworks end-to-end, with a quality-engineering mindset baked in
+  rather than bolted on afterward.
 </p>
 
 <p>
   <a href="https://therahulr.github.io/">
     <img src="https://img.shields.io/badge/Website-therahulr.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:[redacted]">
-    <img src="https://img.shields.io/badge/Email-[redacted]-FF2D55?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:+91[redacted]">
-    <img src="https://img.shields.io/badge/Phone-+91--[redacted]-00E5A8?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="mailto:therahulat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-therahulat@gmail.com-FF2D55?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/therahulr/">
     <img src="https://img.shields.io/badge/LinkedIn-therahulr-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20Workflows-RAG%20%7C%20Embeddings%20%7C%20Automation-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Test%20Strategy-Release%20Readiness%20%7C%20Risk--Based%20Coverage-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-UI%20%7C%20API%20%7C%20DB%20Validation-F97316?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full%20Stack-FastAPI%20%7C%20React%20%7C%20SQL-38BDF8?style=flat-square" />
-</p>
-
 </div>
 
 <br/>
 
-### 🌈 Snapshot
-- 🧠 **8+ years** building Python-first systems across backend engineering, automation, and data workflows  
-- ⚡ Strong in **scalable APIs**, **automation frameworks**, **DB validation**, **CI/CD**, and **engineering discipline**  
-- 🧩 Built for **clarity + reliability**: traceability, observability, measurable quality, predictable delivery  
+### Snapshot
+
+8+ years building Python-first systems across backend engineering, test automation, and data workflows.
+Most of that time has gone into scalable APIs, automation frameworks, database validation, and CI/CD —
+the parts of a system that decide whether a release is actually safe to ship. More recently that's expanded
+into applying LLMs and RAG to speed up testing and engineering work itself, not just building software.
 
 <br/>
 
-### 🧬 How I think & execute
-- 🟣 **Quality engineered, not appended** → defect prevention mindset, not just detection  
-- 🟦 **Traceability** → requirements → tests → results → release confidence  
-- 🟢 **Stability-first automation** → resilient design, maintainable architecture, CI-friendly execution  
-- 🟠 **Business-aligned testing** → risk-based coverage and regression strategy  
-- 🟡 **Measurable outcomes** → dashboards, metrics, and decision-grade reporting  
+### How I work
+
+I treat quality as something designed into a system, not appended at the end — traceability from
+requirement to test to release, automation that's stable enough to trust in CI, and reporting that gives
+an actual decision (ship / don't ship) rather than a wall of numbers. Coverage decisions are risk-based:
+I'd rather have solid coverage on what actually breaks in production than 100% coverage on everything.
 
 <br/>
 
-### 🧱 Experience
-- 🔥 **Senior Software Engineer / QA Automation Lead (2020–Present)** — building and stabilizing enterprise-grade platforms with a quality-first mindset  
-  - 🧠 Scalable backend/API development (Python, Django/FastAPI), secure auth flows, clean modular architecture  
-  - 🧪 End-to-end **test strategy & release readiness**: risk-based coverage, regression planning, QA sign-offs, defect prevention  
-  - ⚙️ Automation at scale: **UI + API + DB validation**, CI-integrated execution, reporting (Allure), reliability improvements  
-  - 🧾 Data-intensive workflows: reconciliation pipelines, anomaly/risk detection signals, integrity + traceability patterns  
+### Experience
 
-- 🛰️ **Software Engineer (2018–2020)** — foundation years focused on engineering + verification  
-  - 🧩 Backend engineering support + E2E validation for business-critical workflows  
-  - 🧪 Automation fundamentals: Selenium + PyTest, API verification, database-driven assertions, stable test design  
-  - 🧰 Built reusable utilities, data generators, logging/monitoring patterns, repeatable QA processes  
+**Senior Software Engineer / QA Automation Lead (2022 – Present)**
+Building and stabilizing enterprise-grade platforms with a quality-first mindset.
+- Backend/API development (Python, Django/FastAPI), secure auth flows, modular architecture
+- End-to-end test strategy and release readiness: risk-based coverage, regression planning, QA sign-off
+- Automation at scale across UI, API, and DB layers, CI-integrated with Allure reporting
+- Data-intensive workflows: reconciliation pipelines, anomaly/risk detection signals, traceability
 
-- 💼 **Freelance / Independent Work (Ongoing)** — outcome-driven delivery across varied problem spaces  
-  - 🧱 Python automation scripts, ETL/data transformations, scraping/structured extraction, dashboards & visual reporting  
-  - 🔍 API validation workflows, productivity tooling, small-to-mid scale full-stack implementations  
+**Senior Test Engineer (2019 – 2022)**
+Automation and verification for business-critical workflows.
+- Selenium + PyTest automation, API verification, database-driven assertions
+- Reusable test utilities, data generators, logging/monitoring patterns
+
+**Software Test Engineer (2018 – 2019)**
+First professional role — backend support and QA fundamentals on business-critical systems.
+
+**Independent / freelance work (ongoing)**
+Python automation scripts, ETL and data transformation pipelines, API validation tooling, and small
+full-stack builds, taken on alongside full-time work.
 
 <br/>
 
-### 🧪 What I’ve built
-* 🏦 **Designed, developed, and deployed an end-to-end Bank Reconciliation (BRS) process** — ingestion → validation → reconciliation logic → exception handling → reporting  
-* 🛡️ **Delivered SEBI-aligned fraud detection workflows** — signal extraction, rule/anomaly detection, case-ready evidence trails  
-* 🧾 **Built reconciliation rule engines** — matching, partial matching, tolerance handling, multi-source alignment (ledger/bank/internal)  
-* 🔎 **Implemented exception workflows** — auto-classification, prioritization, audit-friendly resolution paths, SLA-style tracking  
-* 🧠 **Created risk & fraud indicators** — unusual frequency, amount deviation, reversals, circular patterns, identity mismatches, timing anomalies  
-* 🧿 **Built automation execution monitoring** — visibility into runs, outcomes, failures, and reliability signals  
-* 📊 **Developed analytics pipelines (Python + SQL)** — raw data → KPIs → decision-grade visual reporting  
-* 🕸️ **Engineered web data extraction systems** — structured scraping, normalization, storage, comparison/analysis workflows  
-* 🧵 **Implemented real-time monitoring & validation patterns** — integrity checks, event-driven verification, reliability guardrails  
-* ⚙️ **Engineered automation + validation utilities** across UI/API/DB layers — accuracy, consistency, regression protection  
-* 🔐 **Strengthened data integrity & security posture** — validation gates, controlled access patterns, audit-aware logging  
-* 📦 **Standardized delivery pipelines** — CI-friendly execution, consistent reporting, repeatable deployment practices  
+### Selected work
+
+- Designed and shipped an end-to-end bank reconciliation process — ingestion, validation, matching logic,
+  exception handling, and reporting
+- Built fraud-detection workflows aligned to capital markets regulatory requirements — signal extraction,
+  anomaly/rule-based detection, case-ready evidence trails
+- Built reconciliation rule engines with partial matching, tolerance handling, and multi-source alignment
+  (ledger, bank, internal records)
+- Built exception-handling workflows: auto-classification, prioritization, audit-friendly resolution paths
+- Built risk and fraud indicators: unusual frequency, amount deviation, reversals, circular patterns,
+  identity mismatches, timing anomalies
+- Built analytics pipelines in Python and SQL, turning raw data into decision-grade reporting
+- Built web data extraction systems: structured scraping, normalization, storage, comparison workflows
 
 <br/>
 
 <div align="center">
 
-### 🧰 Tech Stack
+### Tech Stack
 <img src="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,flask,postgres,mongodb,docker,githubactions,azure,aws,jenkins,linux,kafka&perline=8" />
 
 </div>
@@ -98,7 +95,7 @@
 
 <div align="center">
 
-### 🧪 Testing & Automation
+### Testing & Automation
 <img src="https://img.shields.io/badge/Selenium-19C37D?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-0EA5E9?style=for-the-badge&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTest-F59E0B?style=for-the-badge&logo=pytest&logoColor=white" />
@@ -110,33 +107,24 @@
 
 <br/>
 
-### 🤖 AI in my engineering
-- 🧠 **AI-assisted development** → faster prototyping + clean refactors with strong judgment  
-- 🧩 **RAG/Embeddings workflows** → knowledge search over specs, test cases, and docs  
-- 🧪 **AI for QA** → risk discovery, edge cases, scenario expansion, better coverage  
-- ⚙️ **Automation intelligence** → convert repetitive analysis into reliable tools and workflows  
+### AI in my workflow
+
+I use AI-assisted development for faster prototyping and cleaner refactors, RAG/embeddings for searching
+over specs and test cases, and LLMs for expanding edge-case coverage during test design. The goal is
+turning repetitive analysis work into tools I don't have to redo by hand every release.
 
 <br/>
 
-### 🌌 Beyond work
-- 🌿 Philosophy & Psychology · 🌌 Space & Spirituality  
-- 🎶 Hindi music + poetry · 🏛️ Retro/ancient aesthetics  
-- 📸 Cinematic photography, especially low-light moods  
+### Outside work
+
+Philosophy and psychology, space, Hindi music and poetry, retro and ancient aesthetics, and low-light
+cinematic photography.
 
 <br/>
-<div align="center">
-
-<img src="https://img.shields.io/badge/Build%20Style-Product%20Mindset-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Quality-Risk--Based%20%7C%20Release--Ready-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Automation-UI%20%7C%20API%20%7C%20DB-0b0f14?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-RAG%20%7C%20Embeddings-05070a?style=for-the-badge" />
-
-</div>
-
 
 <div align="center">
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <img width="98%" src="https://github.com/therahulr/therahulr/blob/main/assets/analytics/contribution-snake.svg" />
 
@@ -158,11 +146,8 @@
 <a href="https://therahulr.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Website-therahulr.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="mailto:[redacted]">
-  <img src="https://img.shields.io/badge/Email-[redacted]-FF2D55?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="tel:+91[redacted]">
-  <img src="https://img.shields.io/badge/Phone-+91--[redacted]-00E5A8?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="mailto:therahulat@gmail.com">
+  <img src="https://img.shields.io/badge/Email-therahulat@gmail.com-FF2D55?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/therahulr/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-therahulr-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white" />
