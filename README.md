@@ -12,8 +12,8 @@
 </p>
 
 <p>
-  <a href="https://therahulr.github.io/">
-    <img src="https://img.shields.io/badge/Website-therahulr.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://rahulr.dev/">
+    <img src="https://img.shields.io/badge/Website-rahulr.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:therahulat@gmail.com">
     <img src="https://img.shields.io/badge/Email-therahulat@gmail.com-FF2D55?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -58,9 +58,6 @@ Building and stabilizing enterprise-grade platforms with a quality-first mindset
 Automation and verification for business-critical workflows.
 - Selenium + PyTest automation, API verification, database-driven assertions
 - Reusable test utilities, data generators, logging/monitoring patterns
-
-**Software Test Engineer (2018 – 2019)**
-First professional role — backend support and QA fundamentals on business-critical systems.
 
 **Independent / freelance work (ongoing)**
 Python automation scripts, ETL and data transformation pipelines, API validation tooling, and small
@@ -143,8 +140,8 @@ cinematic photography.
 
 <div align="center">
 
-<a href="https://therahulr.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-therahulr.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://rahulr.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-rahulr.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:therahulat@gmail.com">
   <img src="https://img.shields.io/badge/Email-therahulat@gmail.com-FF2D55?style=for-the-badge&logo=gmail&logoColor=white" />
